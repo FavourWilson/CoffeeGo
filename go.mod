@@ -1,3 +1,2 @@
-module github.com/nicholasjackson/building-microservices-youtube/product-api
-
+module github.com/FavourWilson/CoffeeGo
 go 1.23.3
